@@ -2,7 +2,7 @@
 
 I’m **Sakshi Singh**, a data-driven analyst passionate about turning raw data into actionable insights.  
 
-- 🔭 I’m currently pursuing my **MS in Business Analytics (GPA 4.0)** at Sacred Heart University.  
+- 🔭 I’m currently pursuing my **MS in Business Analytics (GPA 3.9)** at Sacred Heart University.  
 - 🌱 I’m working with **Python, SQL, Tableau, Power BI, and Snowflake** to build ETL pipelines, dashboards, and machine learning workflows.  
 - 👯 I love collaborating on **data storytelling, predictive modeling, and business intelligence projects**.  
 - 🤔 Always exploring ways to combine **AI + Analytics** for smarter decision-making.  
