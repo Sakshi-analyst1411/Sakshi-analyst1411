@@ -8,6 +8,6 @@ I’m **Sakshi Singh**, a data-driven analyst passionate about turning raw data 
 - 👯 I love collaborating on data storytelling, predictive modeling, anomaly detection and business intelligence projects
 - 🤔 Always exploring ways to combine AI + Analytics for smarter decision-making
 - 💬 Ask me about machine learning, ETL pipelines, data visualization, or business analytics
-- 📫 Reach me on (https://www.linkedin.com/in/sakshi-singh1411/) or at sakshisinghn70@gmail.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sakshi-singh1411/) or at sakshisinghn70@gmail.com
 - ⚡ Fun fact: I don't just analyze data — I build systems that make data work for you!  
 
